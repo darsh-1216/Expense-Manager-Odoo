@@ -1,8 +1,0 @@
-Flask
-python-dotenv # To load the .env file
-requests      # For API calls
-SQLAlchemy    # For database ORM
-Flask-SQLAlchemy # For Flask integration
-Flask-Migrate    # For database migrations
-Flask-WTF        # For form handling
-pytesseract      # For OCR feature (if used)
